@@ -1,0 +1,49 @@
+[
+  {
+    "Slug": "kanban-tool",
+    "Title": "Kanban Board Tool",
+    "Summary": "Lightweight Blazor Kanban board with drag-and-drop.",
+    "Tags": [ "Blazor", "Kanban", "Drag-and-Drop" ],
+    "LiveUrl": "/demos/kanban",
+    "MoreInfoUrl": "/projects/kanban-tool",
+    "HeroImage": "/images/kanban.png",
+    "Started": "2025-02-01T00:00:00Z",
+    "Updated": "2025-08-14T00:00:00Z"
+  },
+  {
+    "Title": "Draggable Dots",
+    "Slug": "draggable-dots",
+    "HeroImage": "images/projects/dots-hero.png",
+    "Started": "2025-08-01T00:00:00Z",
+    "Updated": "2025-08-14T00:00:00Z",
+    "Summary": "An interactive polygon drawing tool built with Blazor and JavaScript. Supports dragging vertices, snapping to merge, closing shapes, and live polygon fill rendering.",
+    "Tags": [ "Blazor", "JavaScript", "Canvas", "UI Tool" ],
+    "LiveUrl": "dots",
+    "RepoUrl": "",
+    "Content": "The Draggable Dots tool allows you to visually create polygons directly in the browser. Features include:\n\n- Click to add vertices\n- Double-click to insert on an edge\n- Drag vertices to reposition or merge\n- Close polygons by dragging the last vertex onto the first\n- Automatically fill closed shapes\n\nBuilt for speed and simplicity, this is ideal for quick sketching or shape-based UI logic."
+  },
+  {
+    "Title": "Flow Editor",
+    "Slug": "flow-editor",
+    "HeroImage": "images/projects/flow-editor-hero.png",
+    "Started": "2025-08-01T00:00:00Z",
+    "Updated": "2025-08-14T00:00:00Z",
+    "Summary": "A lightweight node-based flow editor for designing processes, game logic, or data pipelines with drag-and-drop blocks.",
+    "Tags": [ "Blazor", "JavaScript", "Canvas", "Node Editor", "Flow" ],
+    "LiveUrl": "flows",
+    "RepoUrl": "",
+    "Content": "The Flow Editor tool enables creation of node-based diagrams for workflows, logic chains, or game mechanics.\n\n- Drag-and-drop node creation\n- Connect nodes with edges\n- Move, delete, or rewire existing nodes\n- Custom node shapes and labels\n\nDesigned to be modular and data-driven so it can power multiple project types."
+  },
+  {
+    "Title": "Charts Playground",
+    "Slug": "charts-playground",
+    "HeroImage": "images/projects/charts-hero.png",
+    "Started": "2025-08-01T00:00:00Z",
+    "Updated": "2025-08-14T00:00:00Z",
+    "Summary": "A custom charting system built from scratch in JavaScript for Blazor, supporting multiple chart types with dynamic data.",
+    "Tags": [ "Blazor", "JavaScript", "Charts", "Data Visualisation" ],
+    "LiveUrl": "charts/playground",
+    "RepoUrl": "",
+    "Content": "The Charts Playground demonstrates a custom-built charting engine integrated into Blazor.\n\n- Bar, pie, radar, line, gantt, and pareto charts\n- Custom colour schemes\n- Dynamic data updates\n- Fully client-side rendering with no external chart libraries\n\nPerfect for projects where you want full control over chart rendering."
+  }
+]
